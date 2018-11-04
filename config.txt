@@ -1,6 +1,6 @@
-token=NDc2Njk2NTgxMzU0MjkxMjEx.Dnrj-g.y596ycjEocoGIseTOHXcf0k1p4s
-owner=194559857536270336 
-prefix=1
-game=1play
+token=NTA4Njc0NjA1NDk4NzYxMjM2.DsCsxA.3HyZhaWiXk90cTusT-3QjHOBA28
+owner=368768446327947265
+prefix=Qu
+game=Quran|QUHelp.
 stayinchannel=true
 songinstatus=true
